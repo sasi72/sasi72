@@ -23,7 +23,7 @@ I enjoy solving real-world problems, writing clean code, and continuously improv
 - React.js
 - Next.js
 - HTML5, CSS3, Tailwind CSS, Styled Components
-- Responsive Design & Accessibility (a11y)
+- Responsive Design & Accessibility
 
 ### **Backend**
 - Node.js
@@ -40,7 +40,6 @@ I enjoy solving real-world problems, writing clean code, and continuously improv
 - Docker
 - CI/CD (GitHub Actions)
 - AWS (EC2, S3, Lambda – basic to intermediate)
-- Vercel / Netlify
 - Nginx
 
 ### **Testing**
