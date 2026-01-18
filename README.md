@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sasidharan V (Full Stack JavaScript Developer)
+# 👋 Hi, I'm Sasidharan V (Full Stack Developer)
 
 I build **scalable, high-performance web applications** using modern JavaScript technologies across the frontend and backend.  
 I enjoy solving real-world problems, writing clean code, and continuously improving system design and developer experience.
